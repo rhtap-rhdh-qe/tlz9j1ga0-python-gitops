@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: tlz9j1ga0-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/tlz9j1ga0-python
